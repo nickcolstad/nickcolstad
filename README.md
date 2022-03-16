@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Colstad
-- 👀 I’m on my way to being proficient in web development with the goal to become a software engineer. 
+- 👀 I’m on my way to being proficient in web development with the goal to become a software developer. 
 - 🌱 Currently, I am learning full-stack development with HTML, CSS, and Javascript, supplemented with the MERN stack. 
-- 💞️ I’m looking to collaborate on entry level prpjects and I am open to meeting anyone new that is also interested in software.
+- 💞️ I’m looking to collaborate on entry level prpoects and I am open to meeting anyone new that is also interested in software.
 - 📫 Reach me at ncolstad@gmail.com or on LinkedIn @ https://www.linkedin.com/in/nick-colstad-5373b5148/
 
 <!---
